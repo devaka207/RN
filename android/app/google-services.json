@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337333057742",
+    "project_id": "admn-c89c2",
+    "storage_bucket": "admn-c89c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337333057742:android:6361718b3be8d55122f89f",
+        "android_client_info": {
+          "package_name": "com.admn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337333057742-aao7tojq0l5t3aoqmu6r907a3asp8nin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD8K7XJD_y0bsAxhldPvPp9hjJEjsXwUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337333057742-aao7tojq0l5t3aoqmu6r907a3asp8nin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
